@@ -23,6 +23,8 @@ Pytorch implementation of the NeurIPS 2022 paper: [Reconstructing Training Data 
 
 Create a copy of ```setting.default.py``` with the name ```setting.py```, and make sure to change the paths inside to match your system. 
 
+[Install dependencies - we might add a conda environment yaml file later..]
+
 ## Running the Code
 
 ### Notebooks
