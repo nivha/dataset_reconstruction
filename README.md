@@ -11,7 +11,7 @@
 <h4 align="center"> NeurIPS 2022 </h4>
 
 <h3 align="center"> 
-<a href="=https://giladude1.github.io/reconstruction/" target="_blank">Webpage</a>, 
+<a href="https://giladude1.github.io/reconstruction" target="_blank">Webpage</a>, 
 <a href="https://arxiv.org/abs/2206.07758" target="_blank">Paper</a>
 </h3>
 
