@@ -46,7 +46,6 @@ def get_balanced_data(args, data_loader, data_amount):
     # get balanced data
     data_amount_per_class = data_amount // 2
 
-    # GILAD Version:
     labels_counter = {1: 0, 0: 0}
     x0, y0 = [], []
     got_enough = False
