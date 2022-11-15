@@ -8,7 +8,7 @@
 <a href="https://www.weizmann.ac.il/math/irani/" target="_blank">Michal Irani</a>
 </h3>
 
-<h4 align="center"> NeurIPS 2022 </h4>
+<h4 align="center"> NeurIPS 2022 (Oral) </h4>
 
 <h3 align="center"> 
 <a href="https://giladude1.github.io/reconstruction" target="_blank">Webpage</a>, 
