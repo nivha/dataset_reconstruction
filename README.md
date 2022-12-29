@@ -23,7 +23,12 @@ Pytorch implementation of the NeurIPS 2022 paper: [Reconstructing Training Data 
 
 Create a copy of ```setting.default.py``` with the name ```setting.py```, and make sure to change the paths inside to match your system. 
 
-[Install dependencies - we might add a conda environment yaml file later..]
+Create and initialize new conda environment using the supplied ```environment.yml``` file (using python 3.8 and pytorch 11.1.0 and CUDA 11.3) :
+```
+conda env create -f environment.yaml
+conda activate rec
+```
+
 
 ## Running the Code
 
