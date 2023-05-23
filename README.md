@@ -81,7 +81,7 @@ the parameters necessary to build the model.
 ## BibTeX
 
 ```bib
-@inproceedings{NEURIPS2022_90692737,
+@inproceedings{haim2022reconstructing,
  author = {Haim, Niv and Vardi, Gal and Yehudai, Gilad and Shamir, Ohad and Irani, Michal},
  booktitle = {Advances in Neural Information Processing Systems},
  editor = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
