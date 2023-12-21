@@ -68,6 +68,8 @@ These reconstructions can be reproduced by running the following commandlines (t
 - CIFAR10: ```command_line_args/reconstruct_cifar10_b9dfyspx_args.txt``` and ```command_line_args/reconstruct_cifar10_k60fvjdy_args.txt```
 - MNIST: ```command_line_args/reconstruct_mnist_kcf9bhbi_args.txt``` and ```command_line_args/reconstruct_mnist_rbijxft7_args.txt```
 
+(For full reconstruction, one has to run a hyperparameter sweep. We used W&B to do this. An exapmle for a W&B sweep specs can be found [here](https://github.com/nivha/dataset_reconstruction/issues/2]))
+
 
 ### Training/Reconstructing New Learning Problems
 
